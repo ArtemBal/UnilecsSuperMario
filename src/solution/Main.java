@@ -1,7 +1,5 @@
 package solution;
 
-import java.util.Arrays;
-
 public class Main {
     public static int solution(int[][] array) {
         int rows = array.length;
